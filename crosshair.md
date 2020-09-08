@@ -39,24 +39,9 @@ When it comes to the top pros, 54% of them are using a Green crosshair. 31% of t
 
 This makes sense why a lot of people choose a green crosshair as if you go around the maps you'll notice there simply isn't a lot of green backgrounds.
 
-On the map split it's very white, grey, and brown . On Bind we see a lot of brown, red, tan, and some blue paint. If we go to the map Haven we see the same thing, a lot of grey, brown and tan backgrounds.
-
-Riot has designed it this way on purpose to help enemy models stand out more and it makes sense that so many pros pick Green as this is one color that clashes the least with the background. 
-However, that doesn't explain why 31% of them are using a white crosshair. Doesn't this go against what we just said? Given that it would blend it a lot with the grey backgrounds.
-
-Well, yes, and I would say for the vast majority of players a white crosshair is one of the worst to go with. That being said, once you understand how prosare aiming, you can begin to realize why they can use a white crosshair.
-
-You see, the average player actually uses their crosshair to aim, surprising I know. The focus of their eyes are often on the crosshair itself, while their peripheral vision scans for enemies Once they see an enemy in their peripheral vision, they then continue to focus on their crosshair and drag it on top of the enemy, and then shoot.
-
-This is the opposite of what pro players do. They are not focused on their crosshair, and instead are scanning their entire environment around the crosshair.
-Once they see an enemy, they then focus their vision on that enemy, and then use their peripheral vision and muscle memory to drag their crosshair onto the enemy.
-And because of how much training and practice they have when it comes to doing this, they have an instinctual idea of where the center of their monitor is
-So for many pros, they'd rather have their crosshair take up less of the screen and be less visible, so their vision is less obstructed and they can scan their monitor for enemies, and rely on their muscle memory to flick onto the enemy.
-
-There are a couple of other exceptions when it comes to crosshair color.
-For example, if you play a lot of Viper well then a green crosshair probably isn't the best choice given that it will blend in with her poison and gets lost in her ultimate.
-
-At the same time, take into consideration the enemy highlight color you've chosen. If enemies are highlighted Red, well then picking a Red colored crosshair is not the right choice since they will blend together.
+On the map split it's very white, grey, and brown . 
+On Bind we see a lot of brown, red, tan, and some blue paint. 
+If we go to the map Haven we see the same thing, a lot of grey, brown and tan backgrounds.
 
 Overall, we highly recommend you just go with. Green as that's what the majority of the pros go with and there's logical reasons to back it up.
 
@@ -100,15 +85,6 @@ While other notable pros have a slight variation of this 1/4/2/2 theme. For exam
 What this does is draw a black border around the inner lines to help highlight them.
 
 69% of the top pros have this turned off. While 31% have it enabled. It makes sense as to why a lot of pros have this disabled since it indirectly makes your crosshair bigger, taking more of your screen, and for many the black outlines might not even effectively highlight their crosshair for them.
-
-On the other hand, for the pros that do have it enabled, every single one of them has the Opacity set to 1 and Thickness set to 1.
-
-Really what this comes down to, is whether you find the black borders help you keep track of your crosshair or not.
-
-Keep in mind, that previous situation we mentioned of having a green crosshair when playing Viper, well those black borders now help us keep track of our crosshair a little bit better when aiming on top of her green abilities.
-
-This is the main advantage of having it enabled. If you're a more advanced player then you probably don't need the extra help from the black border, whereas if you're newer or have difficulty keeping track of your crosshair then having outlines set to 1 in Opacity and thickness should be what you're doing. 
-
 
 <h2>The infamous center dot</h2>
 
